@@ -1,4 +1,4 @@
-# Power-BI-Final-Project
+# Power BI: Proyecto Final
 
 Proyecto final para el curso "Power BI: Herramientas básicas para el análisis de datos".
 
